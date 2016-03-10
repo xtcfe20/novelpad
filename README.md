@@ -24,8 +24,7 @@ The useful tool for anyone who can publish their own novel and article online. (
 <br />
 <hr>
 ### For Chinese version Usage
-
-- Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
+Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
 ### Prevent user copy
 put **JavaScript** into your code
