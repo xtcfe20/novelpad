@@ -31,7 +31,7 @@ The useful tool for anyone who can publish their own novel and article online.
 - Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
 ## Prevent user copy
-
+put JavaScript into your code
 ```ruby
 <!-- prevent user copy start -->
 <script type="text/javascript">
@@ -64,7 +64,7 @@ iEsc();}
 </script>
 <!-- prevent user copy end -->
 ```
-And put this into your CSS
+And put CSS into your code
 ```ruby
 body {
    /* prevent user copy */
@@ -72,3 +72,4 @@ body {
   -webkit-user-select: none; 
 }
 ```
+*Notice that there is no way to prevent user copy your text when you publish in Internet.*
