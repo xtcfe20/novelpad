@@ -1,10 +1,10 @@
 # Novel-Pad
-The useful tool for anyone who can publish their own novel and article online. (Mobile Friendly)
+####The tool for anyone who can publish their own novel and article online. (Mobile Friendly)
 ###<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a> 
 
 ## Basic Usage
 
-- **First, you need a [web hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to upload your file.**
+- **First, you need a [Web Hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to let you upload your file.**
 
 - Upload any **TXT File Extension(.txt)** you want to display on your page. 
 
@@ -13,18 +13,16 @@ The useful tool for anyone who can publish their own novel and article online. (
 ## Place Order
 
 ![order](screenshots/01.png "Add the order number in the leftmost to sort txt files")
-- As above image, put the order number on the **LEFTMOST** to sort them out. 
+- As above image, rename filename and put the order number on the **LEFTMOST** to sort them out. 
 
-- The leftmost number will **NOT DISPLAY** as your page.
+- The leftmost number will **NOT DISPLAY** on your page.
 
 ## Modify Novel Name, Author and Status
 
-Open index.php to find  
+Open index.php to find the top of them and modify  with your editer.
 - **$NovelName** 
 - **$NovelAuthor**
 - **$NovelStatus** 
-in the top and modify them with your editer.
-<br />
 <hr>
 
 ### For Chinese version Usage
@@ -72,4 +70,5 @@ body {
   -webkit-user-select: none; 
 }
 ```
-**\*Notice that there is no way to prevent user copy your text when you publish in Internet.**
+
+**\* Notice that there is no way to prevent user copy your text when you publish in Internet.**
