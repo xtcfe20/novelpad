@@ -30,7 +30,7 @@ in the top and modify them with your editer.
 ### For Chinese version Usage
 Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
-### Prevent user copy
+>### Prevent user copy
 put **JavaScript** into your code
 ```ruby
 <!-- prevent user copy start -->
