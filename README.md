@@ -1,9 +1,6 @@
 # Novel-Pad
 The useful tool for anyone who can publish their own novel and article online.
-<a href="http://example.com" target="_blank">http://example.com</a>
-[English Demo](http://smartlun.com/github/novel/)
- / 
-[Chinese Demo](http://smartlun.com/novel/sixstone/)
+<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a> 
 
 ## Basic Usage
 
@@ -31,7 +28,7 @@ The useful tool for anyone who can publish their own novel and article online.
 - Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
 ## Prevent user copy
-put JavaScript into your code
+put **JavaScript** into your code
 ```ruby
 <!-- prevent user copy start -->
 <script type="text/javascript">
@@ -64,7 +61,7 @@ iEsc();}
 </script>
 <!-- prevent user copy end -->
 ```
-And put CSS into your code
+And put **CSS** into your code
 ```ruby
 body {
    /* prevent user copy */
