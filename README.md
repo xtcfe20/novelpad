@@ -1,6 +1,6 @@
 # Novel-Pad
-The useful tool for anyone who can publish their own novel and article online.
-###**<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a>** 
+The useful tool for anyone who can publish their own novel and article online. **Mobile view friendly.**
+###<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a> 
 
 ## Basic Usage
 
