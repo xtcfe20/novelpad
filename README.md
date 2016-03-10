@@ -21,6 +21,10 @@ The useful tool for anyone who can publish their own novel and article online. (
 
 - Open index.php to find  **$NovelName / $NovelAuthor / $NovelStatus** in the top and modify them with your editer.
 
+
+<hr>
+
+
 ### For Chinese version Usage
 
 - Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
