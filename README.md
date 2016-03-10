@@ -71,4 +71,4 @@ body {
   -webkit-user-select: none; 
 }
 ```
-**Notice that there is no way to prevent user copy your text when you publish in Internet.**
+**/*Notice that there is no way to prevent user copy your text when you publish in Internet.**
