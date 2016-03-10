@@ -4,7 +4,7 @@ The useful tool for anyone who can publish their own novel and article online. (
 
 ## Basic Usage
 
-- *First, you need a [web hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to upload your file.*
+- **First, you need a [web hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to upload your file.**
 
 - Upload any **TXT File Extension(.txt)** you want to display on your page. 
 
