@@ -4,11 +4,11 @@
 
 ## Basic Usage
 
-- **First, you need a [Web Hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to let you upload your file.**
+1. **First, you need a [Web Hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to let you upload your file.**
 
-- Upload any **TXT File Extension(.txt)** you want to display on your page. 
+2. Upload any **TXT File Extension(.txt)** you want to display on your page. 
 
-- File Name will automatically be **TITLE**, and File Content will automatically be **CONTENT**.
+3. File Name will automatically be **TITLE**, and File Content will automatically be **CONTENT**.
 
 ## Place Order
 
