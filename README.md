@@ -8,7 +8,7 @@ The useful tool for anyone who can publish their own novel and article online. (
 
 - Upload any **TXT File Extension(.txt)** you want to display on your page. 
 
-- TXT file-name will automatically be **TITLE**, and TXT file-content will automatically be **CONTENT**.
+- File Name will automatically be **TITLE**, and File Content will automatically be **CONTENT**.
 
 ## Place Order
 
