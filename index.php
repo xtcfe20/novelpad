@@ -1,7 +1,7 @@
 <?php 
   $NovelName = "The Prophet";    // Novel Name
   $NovelAuthor = "by Kahlil Gibran" ;    //  Author Name
-  $BookStatus = "Not completed..."   //   Book Status (show in the bottom)
+  $NovelStatus = "Not completed..."   //   Book Status (show in the bottom)
 ?>
 
 <html>
