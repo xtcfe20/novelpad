@@ -18,7 +18,7 @@ The useful tool for anyone who can publish their own novel and article online.
 ## Place Order
 
 ![order](screenshots/01.png "Add the order number in the leftmost to sort txt files")
-** As above image, put the order number on the leftmost to sort them out. **
+As above image, put the order number on the leftmost to sort them out. 
 
 - The leftmost number will NOT display as your page.
 
