@@ -18,13 +18,13 @@ The useful tool for anyone who can publish their own novel and article online.
 ## Place Order
 
 ![order](screenshots/01.png "Add the order number in the leftmost to sort txt files")
-As above image, put the order number on the leftmost to sort them out. 
+- As above image, put the order number on the leftmost to sort them out. 
 
 - The leftmost number will NOT display as your page.
 
 ## Modify Novel Name, Author and Status
 
-- Open index.php to find  ($NovelName / $NovelAuthor / $NovelStatus) in the top and modify them with your editer.
+- Open index.php to find  **($NovelName / $NovelAuthor / $NovelStatus)** in the top and modify them with your editer.
 
 ## For Chinese version Usage
 
