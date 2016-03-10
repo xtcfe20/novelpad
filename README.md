@@ -1,6 +1,6 @@
 # Novel-Pad
 ####The reader for anyone who need to put their .txt  to view online. (Mobile Friendly)
-###<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a> 
+###<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/test/" target="_blank">Chinese Demo</a> 
 
 ## Basic Usage
 
