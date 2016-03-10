@@ -19,7 +19,7 @@
 
 ## Modify Novel Name, Author and Status
 
-Open index.php to find the top of them and modify  with your editer.
+Open index.php to find the top of them and modify them with your editer.
 - **$NovelName** 
 - **$NovelAuthor**
 - **$NovelStatus** 
