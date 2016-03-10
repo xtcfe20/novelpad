@@ -19,7 +19,7 @@ The useful tool for anyone who can publish their own novel and article online. (
 
 ## Modify Novel Name, Author and Status
 
-- Open index.php to find  **$NovelName / $NovelAuthor / $NovelStatus** in the top and modify them with your editer.
+- Open index.php to find  **$NovelName__ $NovelAuthor__ $NovelStatus__** in the top and modify them with your editer.
 <hr>
 
 ### For Chinese version Usage
