@@ -1,7 +1,7 @@
 # Novel-Pad
 ####The tool for anyone who can publish their own novel and article online. (Mobile Friendly)
 ###<a href="http://smartlun.com/github/novel/" target="_blank">English Demo</a> / <a href="http://smartlun.com/novel/sixstone/" target="_blank">Chinese Demo</a> 
-
+<br />
 ## Basic Usage
 
 - **First, you need a [Web Hosting](https://en.wikipedia.org/wiki/Category:Web_hosting) to let you upload your file.**
@@ -9,14 +9,14 @@
 - Upload any **TXT File Extension(.txt)** you want to display on your page. 
 
 - File Name will automatically be **TITLE**, and File Content will automatically be **CONTENT**.
-
+<br />
 ## Place Order
 
 ![order](screenshots/01.png "Add the order number in the leftmost to sort txt files")
 - As above image, rename filename and put the order number on the **LEFTMOST** to sort them out. 
 
 - The leftmost number will **NOT DISPLAY** on your page.
-
+<br />
 ## Modify Novel Name, Author and Status
 
 Open index.php to find the top of them and modify  with your editer.
@@ -24,10 +24,11 @@ Open index.php to find the top of them and modify  with your editer.
 - **$NovelAuthor**
 - **$NovelStatus** 
 
-
+<br />
 ## For Chinese version Usage
 Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
+<br /><br />
 >## Prevent user copy
 put **JavaScript** into your code
 ```ruby
