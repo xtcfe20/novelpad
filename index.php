@@ -1,3 +1,12 @@
+<!-- 
+ * Novel-Pad Plugin PHP Example
+ * https://github.com/waylun/novelpad
+ *
+ * Copyright 2016, Design by Lun, Denver Colorado
+ * 
+ * Email: waylunly@gmail.com
+-->
+
 <?php 
   $NovelName = "The Prophet";    // Novel Name
   $NovelAuthor = "by Kahlil Gibran" ;    //  Author Name
