@@ -1,0 +1,70 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x:hidden; 
+  padding:0;
+  margin: 0;
+  background: #333333;
+  
+}
+
+h1,h2,h3,p {
+      margin:0;
+      padding: 8px;  
+      
+    }
+
+hr {
+    /* create a dash hr */
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999999;
+}
+
+.remote {
+  /*the remote text adjust*/
+  margin: 1em 1.5em;
+  color:#EEEEEE;
+}   
+
+/*to expand the select form size in pc*/
+select {
+    border:1px solid #ccc;
+    vertical-align:top;
+    height:20px;
+}
+input, select{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+/*the whole content*/
+.content {
+  margin: 0;
+  width: 100%;
+  color:#333333;  
+}
+
+
+/*the row box inside content*/
+.row {
+  width: 95%;
+  margin: 20px auto;
+  padding: 20px;  /* content padding */
+  font-size: 20px;   /* original font size */
+  background-color: #EEEEEE;
+  line-height: 2;
+}
+
+.text {
+  width: 100%;
+}
