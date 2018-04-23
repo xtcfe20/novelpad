@@ -34,5 +34,39 @@ Open index.php to find the top of them and modify them with your editer.
 ## For Chinese version Usage
 Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
+## Prevent User copy
+Put below code above your </head> tag.
+```
+<!-- prevent user copy start -->
+<script type="text/javascript">
+function iEsc(){ return false; }
+function iRec(){ return true; }
+function DisableKeys() {
+if(event.ctrlKey || event.shiftKey || event.altKey) {
+window.event.returnValue=false;
+iEsc();}
+}
+document.ondragstart=iEsc;
+document.onkeydown=DisableKeys;
+document.oncontextmenu=iEsc;
+if (typeof document.onselectstart !="undefined")
+document.onselectstart=iEsc;
+else{
+document.onmousedown=iEsc;
+document.onmouseup=iRec;
+}
+function DisableRightClick(qsyzDOTnet){
+if (window.Event){
+if (qsyzDOTnet.which == 2 || qsyzDOTnet.which == 3)
+iEsc();}
+else
+if (event.button == 2 || event.button == 3){
+event.cancelBubble = true
+event.returnValue = false;
+iEsc();}
+}
+</script>
+<!-- prevent user copy end -->
+```
 <br />
 
