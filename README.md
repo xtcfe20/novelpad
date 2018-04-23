@@ -35,7 +35,7 @@ Open index.php to find the top of them and modify them with your editer.
 Open index.php , Ctrl+F find **Chinese version**, delete **//** to comment out,  and write **//** to comment in English version.
 
 ## Prevent User copy
-Put below code above your </head> tag.
+Put below code above your `</head>` tag.
 ```
 <!-- prevent user copy start -->
 <script type="text/javascript">
