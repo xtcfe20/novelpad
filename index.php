@@ -8,9 +8,9 @@
 -->
 
 <?php 
-  $NovelName = "The Prophet";    // Novel Name
-  $NovelAuthor = "by Kahlil Gibran" ;    //  Author Name
-  $NovelStatus = "Not completed..."   //   Book Status (show in the bottom)
+  $NovelName = "The Novel";    // Novel Name
+  $NovelAuthor = "by Novel" ;    //  Author Name
+  $NovelStatus = "Completed..."   //   Book Status (show in the bottom)
 ?>
 
 <html>
@@ -141,10 +141,10 @@ input[type=number]::-webkit-outer-spin-button {
             $line = fgets($filecontent);
 
             // for Chinese version
-            // echo nl2br(str_replace(' ', '&nbsp;', $line));
+            echo nl2br(str_replace(' ', '&nbsp;', $line));
 
             // for English version
-            echo nl2br($line);
+            // echo nl2br($line);
 
             }
             //last time modify files
